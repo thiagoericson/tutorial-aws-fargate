@@ -1,0 +1,1 @@
+print('Runned on AWS Fargate, after trigger by SNS. ;)')
